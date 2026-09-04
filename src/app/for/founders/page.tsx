@@ -229,7 +229,7 @@ export default function ForFoundersPage() {
               <h3 className="text-2xl font-serif text-graphite mb-4">For founders hiring 1–5 roles</h3>
               <ul className="space-y-2 text-sm text-graphite/80">
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />5 active jobs</li>
-                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />350 sourced candidates/mo</li>
+                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />150 sourced candidates/mo</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Triage Agent (daily)</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Outreach + Reply agents</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Marketplace distribution</li>
@@ -261,7 +261,7 @@ export default function ForFoundersPage() {
               Get back to <Em>building.</Em>
             </SectionH2>
             <p className="mt-6 text-lg text-graphite/70">
-              5 days free. 50 candidates sourced. Try it before your next investor update.
+              5 days free. 5 candidates sourced. Try it before your next investor update.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <PrimaryButton href={`${APP_URL}/sign-in?mode=signup`}>

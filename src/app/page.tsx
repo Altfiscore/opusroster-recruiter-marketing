@@ -415,7 +415,7 @@ export default function MarketingHome() {
               <span className="italic">Not louder.</span>
             </SectionH2>
             <Lede className="mt-6">
-              Free 5-day trial. 50 sourcing credits. Full pipeline. No credit card.
+              Free 5-day trial. 5 sourcing credits. Full pipeline. No credit card.
             </Lede>
             <div className="mt-10 flex flex-wrap items-center justify-center gap-3">
               <PrimaryButton href={`${APP_URL}/sign-in?mode=signup`}>Start free trial</PrimaryButton>

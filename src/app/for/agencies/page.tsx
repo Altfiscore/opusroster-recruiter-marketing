@@ -72,7 +72,7 @@ const PLATFORM_PIECES = [
 
 const MATH = [
   { number: "$89/mo", label: "Pro plan", sub: "vs $7,500/mo for one junior recruiter" },
-  { number: "350", label: "Sourced candidates per month", sub: "Pro plan; Business is 1,000" },
+  { number: "150", label: "Sourced candidates per month", sub: "Pro plan; Business is 400" },
   { number: "5 jobs", label: "Active simultaneously on Pro", sub: "Unlimited on Business" },
   { number: "8–12 hrs", label: "Saved per role per week", sub: "Sourcing + outreach + reply triage" },
 ];
@@ -183,7 +183,7 @@ export default function ForAgenciesPage() {
               <Em>$89/month</Em> replaces what a junior recruiter does in a week.
             </SectionH2>
             <Lede>
-              Most agencies pay $5K–15K/month for a sourcing recruiter. OpusRoster’s Pro plan handles 350 candidates a month for less than the cost of a tank of gas. Business plan handles 1,000.
+              Most agencies pay $5K–15K/month for a sourcing recruiter. OpusRoster’s Pro plan handles 150 candidates a month for less than the cost of a tank of gas. Business plan handles 400.
             </Lede>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -243,7 +243,7 @@ export default function ForAgenciesPage() {
               <h3 className="text-2xl font-serif text-graphite mb-4">For solo desks</h3>
               <ul className="space-y-2 text-sm text-graphite/80">
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />5 active jobs</li>
-                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />350 sourced candidates/mo</li>
+                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />150 sourced candidates/mo</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Triage Agent (daily)</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Manual sourcing + AI outreach</li>
               </ul>
@@ -253,7 +253,7 @@ export default function ForAgenciesPage() {
               <h3 className="text-2xl font-serif text-graphite mb-4">For agencies running multiple desks</h3>
               <ul className="space-y-2 text-sm text-graphite/80">
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Unlimited active jobs</li>
-                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />1,000 sourced candidates/mo</li>
+                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />400 sourced candidates/mo</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Sourcer Agent (autopilot, 5/job/day)</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Triage every 4 hours</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Unlimited clients + portal</li>
@@ -277,7 +277,7 @@ export default function ForAgenciesPage() {
               <Em>Hire OpusRoster.</Em>
             </SectionH2>
             <p className="mt-6 text-lg text-graphite/70">
-              5 days free. 50 candidates sourced. See your pipeline fill before you commit a dollar.
+              5 days free. 5 candidates sourced. See your pipeline fill before you commit a dollar.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <PrimaryButton href={`${APP_URL}/sign-in?mode=signup`}>

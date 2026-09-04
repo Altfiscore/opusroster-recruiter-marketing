@@ -255,7 +255,7 @@ export default function ForStaffingPage() {
               Outwork the giants. <Em>Out-tech them too.</Em>
             </SectionH2>
             <p className="mt-6 text-lg text-graphite/70">
-              5 days free. 50 candidates sourced. See your bench refresh itself before you commit a dollar.
+              5 days free. 5 candidates sourced. See your bench refresh itself before you commit a dollar.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <PrimaryButton href={`${APP_URL}/sign-in?mode=signup`}>

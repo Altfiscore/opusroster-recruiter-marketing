@@ -229,7 +229,7 @@ export default function ForInhousePage() {
               <h3 className="text-2xl font-serif text-graphite mb-4">For 1–2 person teams</h3>
               <ul className="space-y-2 text-sm text-graphite/80">
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />5 active jobs</li>
-                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />350 sourced candidates/mo</li>
+                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />150 sourced candidates/mo</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Triage Agent (daily)</li>
               </ul>
             </Card>
@@ -238,7 +238,7 @@ export default function ForInhousePage() {
               <h3 className="text-2xl font-serif text-graphite mb-4">For multi-recruiter TA teams</h3>
               <ul className="space-y-2 text-sm text-graphite/80">
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Unlimited active jobs</li>
-                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />1,000 sourced candidates/mo</li>
+                <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />400 sourced candidates/mo</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Sourcer Agent (autopilot)</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Hiring manager portal</li>
                 <li className="flex items-start gap-2"><Check className="w-4 h-4 text-teal mt-0.5 shrink-0" />Marketplace + ATS distribution</li>
@@ -261,7 +261,7 @@ export default function ForInhousePage() {
               Build a TA function that scales with <Em>headcount you don’t have to hire</Em>.
             </SectionH2>
             <p className="mt-6 text-lg text-graphite/70">
-              5 days free. 50 candidates sourced. See your pipeline transform before you commit a dollar.
+              5 days free. 5 candidates sourced. See your pipeline transform before you commit a dollar.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <PrimaryButton href={`${APP_URL}/sign-in?mode=signup`}>

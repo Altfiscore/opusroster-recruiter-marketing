@@ -289,7 +289,7 @@ export default function TrustPage() {
               Recruiting platform built like the <Em>infrastructure it is.</Em>
             </SectionH2>
             <p className="mt-6 text-lg text-graphite/70">
-              5 days free. 50 candidates sourced. See for yourself how a serious platform handles serious data.
+              5 days free. 5 candidates sourced. See for yourself how a serious platform handles serious data.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <PrimaryButton href={`${APP_URL}/sign-in?mode=signup`}>

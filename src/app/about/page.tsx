@@ -223,7 +223,7 @@ export default function AboutPage() {
               built for the way work <Underline>actually happens.</Underline>
             </SectionH2>
             <p className="mt-6 text-lg text-graphite/70">
-              5 days free. 50 candidates sourced. See what one platform with 100x reach can do for your pipeline.
+              5 days free. 5 candidates sourced. See what one platform with 100x reach can do for your pipeline.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <PrimaryButton href={`${APP_URL}/sign-in?mode=signup`}>
