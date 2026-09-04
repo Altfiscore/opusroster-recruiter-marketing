@@ -103,20 +103,20 @@ const ADDONS = [
   {
     name: "Volume credits",
     desc: "+500 sourcing credits per month for heavy users",
-    price: "$50/mo",
-    annualPrice: "$480/yr",
+    price: "$250/mo",
+    annualPrice: "$2,400/yr",
   },
   {
     name: "Whereby video screening",
     desc: "Automated video interview rounds before live calls",
-    price: "$20/mo",
-    annualPrice: "Coming soon",
+    price: "Free",
+    annualPrice: "Included",
   },
   {
     name: "White-label client portal",
     desc: "Your branding, your domain on the client portal",
-    price: "$30/mo",
-    annualPrice: "Coming soon",
+    price: "Free",
+    annualPrice: "Included",
   },
 ];
 
