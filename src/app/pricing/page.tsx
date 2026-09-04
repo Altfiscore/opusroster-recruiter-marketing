@@ -40,11 +40,10 @@ const PLANS: Plan[] = [
     monthlyAnnualEquivalent: 0,
     cta: "Start free trial",
     features: [
-      "1 active job",
       "50 sourcing credits",
       "1 client in portal",
       "Manual sourcing + AI scoring",
-      "Outreach + Cal.com booking",
+      "Outreach + Canvass booking",
       "Full pipeline kanban",
     ],
     notIncluded: [
@@ -64,11 +63,11 @@ const PLANS: Plan[] = [
     features: [
       "Unlimited active jobs",
       "350 sourcing credits / month",
-      "3 clients in portal",
+      "Client portal",
       "Triage Agent — daily, 50 candidates",
       "AI-personalized outreach",
       "AI reply handling",
-      "Cal.com booking integration",
+      "Canvass booking integration",
       "Email support",
     ],
     notIncluded: [
@@ -93,7 +92,7 @@ const PLANS: Plan[] = [
       "Full Autopilot mode (sources → emails → books)",
       "AI-personalized outreach",
       "AI reply handling",
-      "Cal.com booking integration",
+      "Canvass booking integration",
       "Priority email + chat support",
     ],
   },
