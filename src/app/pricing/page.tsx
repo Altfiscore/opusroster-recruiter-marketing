@@ -40,7 +40,7 @@ const PLANS: Plan[] = [
     monthlyAnnualEquivalent: 0,
     cta: "Start free trial",
     features: [
-      "50 sourcing credits",
+      "5 sourcing credits",
       "1 client in portal",
       "Manual sourcing + AI scoring",
       "Outreach + Canvass booking",
@@ -62,7 +62,7 @@ const PLANS: Plan[] = [
     cta: "Start with Pro",
     features: [
       "Unlimited active jobs",
-      "350 sourcing credits / month",
+      "150 sourcing credits / month",
       "Client portal",
       "Triage Agent — daily, 50 candidates",
       "AI-personalized outreach",
@@ -85,7 +85,7 @@ const PLANS: Plan[] = [
     cta: "Start with Business",
     features: [
       "Unlimited active jobs",
-      "1,000 sourcing credits / month",
+      "400 sourcing credits / month",
       "Unlimited clients in portal",
       "Sourcer Agent — daily, 5/job auto-sourced",
       "Triage Agent — every 4h, 200 max",
@@ -122,7 +122,7 @@ const ADDONS = [
 const FAQS = [
   {
     q: "How does the free trial work?",
-    a: "5 days, no credit card required. You get 50 sourcing credits, 1 active job, and the full pipeline. After 5 days, you upgrade to Pro or Business — or your account pauses (no charge).",
+    a: "5 days, no credit card required. You get 5 sourcing credits and the full pipeline. After 5 days, you upgrade to Pro or Business — or your account pauses (no charge).",
   },
   {
     q: "What's a 'sourcing credit'?",
@@ -448,7 +448,7 @@ export default function PricingPage() {
               <span className="italic text-[#B7E4C7]">No card required.</span>
             </h2>
             <p className="mt-6 text-[17px] leading-relaxed text-white/75">
-              5 days, full pipeline, 50 sourcing credits.
+              5 days, full pipeline, 5 sourcing credits.
               <br />
               See if it fits your workflow before paying.
             </p>
