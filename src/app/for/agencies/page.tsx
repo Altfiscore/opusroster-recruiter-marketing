@@ -73,7 +73,7 @@ const PLATFORM_PIECES = [
 const MATH = [
   { number: "$89/mo", label: "Pro plan", sub: "vs $7,500/mo for one junior recruiter" },
   { number: "150", label: "Sourced candidates per month", sub: "Pro plan; Business is 400" },
-  { number: "5 jobs", label: "Active simultaneously on Pro", sub: "Unlimited on Business" },
+  { number: "Unlimited", label: "Active jobs, every plan", sub: "No caps on open roles" },
   { number: "8–12 hrs", label: "Saved per role per week", sub: "Sourcing + outreach + reply triage" },
 ];
 
